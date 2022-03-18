@@ -1,0 +1,6 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_sale_serviceteam,access.sale.serviceteam,model_sale_serviceteam,,1,1,1,1
+access_sale_work_order,access.sale.work.order,model_sale_work_order,,1,1,1,1
+access_check_bo_wizard,access.check.bo.wizard,model_check_bo_wizard,,1,1,1,1
+access_cancellation_workorder,access.cancellation.workorder,model_cancellation_workorder,,1,1,1,1
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+        <!-- Top menu item -->
+        <menuitem id="booking_categ"
+            name="Booking"
+            parent="sale.sale_menu_root"
+            sequence="1"/>
+
+</odoo>
